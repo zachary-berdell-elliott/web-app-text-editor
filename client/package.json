@@ -4,7 +4,7 @@
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch",
-    "main": "webpack.config.js"
+    "main": "/src/js/index.js"
   },
   "author": "2U",
   "license": "UNLICENSED",
